@@ -1,0 +1,6 @@
+[
+  {"invoice_id":"INV-1001","customer_id":"C001","amount":"$840.00","status":"PAID","invoice_date":"2026-08-14"},
+  {"invoice_id":"INV-1002","customer_id":"C002","amount":"$1,240.00","status":"OPEN","invoice_date":"2026-08-18"},
+  {"invoice_id":"INV-1003","customer_id":"C003","amount":"$310.00","status":"OVERDUE","invoice_date":"2026-08-20"},
+  {"invoice_id":"INV-1004","customer_id":"C004","amount":"$2,050.00","status":"OPEN","invoice_date":"2026-08-21"}
+]
